@@ -1,0 +1,36 @@
+ 
+
+body {
+    font-family: times, arial, sans-serif;
+    background-color: 
+}
+
+.container {
+    margin-left: 15%;
+    margin-right: 15%
+}
+
+#home {
+    background-image: url(../Images/tim-peterson-Tahoe-unsplash.jpg);
+    height: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center, justify;
+    text-size-adjust;
+    color:#e0d9d3
+    
+}
+.h4{
+    color:#e0d9d3
+}
+
+
+h3{
+    color: #552244; font-size:20px;
+}
+
+h4{
+    color: #552244; font-size: 18px;
+}
+
